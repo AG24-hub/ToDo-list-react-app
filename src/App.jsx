@@ -99,6 +99,7 @@ function App() {
           </div>
       </div>
 
+      <div className="footer mt-5 bg-teal-800 flex justify-center sm:text-s">Made with ❤️ by <span className='font-semibold ml-2'> Ankita G.</span></div>
       
     </>
   )
